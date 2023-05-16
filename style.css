@@ -1,0 +1,28 @@
+h1 {
+    font-size: 100px; 
+    color: dark;
+    text-align: center;
+}
+div {
+    background-color: #34495E;
+    padding: 21px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+p {
+    font-size: 50px; 
+    color: white;
+    text-align: justify;
+}
+h3 {
+    font-size: 70px;
+    margin-bottom: 5px;
+    color: white;
+    text-align: center;
+}
+img {
+    width: 1100px;
+}
+.post-4 {
+    background-color: antiquewhite;
+}
